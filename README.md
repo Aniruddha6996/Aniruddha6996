@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aniruddha6996
+- 👋 Hi, I’m @Aniruddha
 - 👀 I’m interested in Computers
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
